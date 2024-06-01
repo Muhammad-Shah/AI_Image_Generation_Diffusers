@@ -80,4 +80,4 @@ if input_prompt is not None:
             file_name="generated_image.png",
             mime="image/png"
         )
-# END
+# END APP
