@@ -1,4 +1,4 @@
-Hees an updated version with a bit more creativity and emoji
+Hee an updated version with a bit more creativity and emoji
 
 # **🎨 AI Image Generation App 🤩**
 
