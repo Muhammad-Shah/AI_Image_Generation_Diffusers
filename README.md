@@ -1,4 +1,4 @@
-Here's an updated version with a bit more creativity and emojis
+Here's an updated version with a bit more creativity and emoji
 
 # **🎨 AI Image Generation App 🤩**
 
