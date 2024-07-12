@@ -12,6 +12,7 @@ load_dotenv(dotenv_path)
 
 # Access environment variables
 HF_API = os.getenv('HF_API')
+HF_API = st.secrets["HF_API"]
 
 
 def generate_image(prompt, style, color_palette, image_size, background):
