@@ -3,11 +3,11 @@ import io
 from PIL import Image
 import PIL
 import requests
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 
 dotenv_path = r'env'
-load_dotenv(dotenv_path)
+# load_dotenv(dotenv_path)
 
 # Access environment variables
 HF_API = os.getenv('HF_API')
