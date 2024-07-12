@@ -5,7 +5,6 @@ import PIL
 import requests
 from dotenv import load_dotenv
 import os
-import numpy as np
 
 dotenv_path = r'env'
 load_dotenv(dotenv_path)
